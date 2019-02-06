@@ -1,0 +1,20 @@
+.icono-comentario{
+  border-radius: 50%;
+}
+.red-soc{
+  width: 25px;
+}
+.comentario{
+  width: 100%;
+}
+body{
+  background: url(../img/fondo1.jpg);
+  background-repeat: : no-repeat;
+  background-size: cover;
+}
+.fondo-transparente{
+  background: rgba(133, 146, 158, 0.6);
+}
+h6{
+  color:#7B241C;
+}
